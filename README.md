@@ -5,4 +5,4 @@
 
  recipes can be found under recipe_type-version.txt
  
-Read the wiki for more info
+Read the wiki for more info (if on mobile, switch to desktop version of site)
