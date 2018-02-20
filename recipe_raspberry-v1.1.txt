@@ -1,6 +1,6 @@
 # Phat Tea raspberry v1.1
 
-ingredients: (makes 1 gallon )
+Ingredients: (makes 1 gallon )
 
 >1 gallon of water
 >2 cups of sugar
@@ -9,7 +9,9 @@ ingredients: (makes 1 gallon )
 >12g citric acid (~2 teaspoons)
 # food grade citric acid can be purchased for cheap on amazon or eBay
 
-1. brew the tea in 4 cups of hot water for 5-15 minutes, depending on desired flavor
+Directions:
+
+1. brew the tea in 4 cups of hot water for 5-15 minutes, depending on desired flavor (you really can't brew it for too long)
 2. while the tea is brewing, add the sugar and citric acid to a gallon pitcher
 3. put the rasberries in a blender with 2 cups of hot water, and blend for 15-30 secs.
 4. strain the seeds out by pouring the rasperry puree through a strainer into the gallon pitcher
@@ -17,4 +19,4 @@ ingredients: (makes 1 gallon )
 6. stir well until everything is dissolved in the pitcher
 7. add ice
 8. fill the rest with water, or until desired strength
-9. drink the whole gallon (not reccomended)
+9. drink the whole gallon (not recommended)
