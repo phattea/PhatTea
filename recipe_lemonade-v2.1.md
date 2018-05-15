@@ -13,7 +13,7 @@ therefore this recipe not intended
 for retail sale.
 
 **Ingredients:**
-(makes one gallon)
+>(makes one gallon)
 
 * 1 gallon of water
 * 2 cups of sugar
