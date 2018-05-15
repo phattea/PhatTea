@@ -1,8 +1,8 @@
 # Phat Tea raspberry v1.2
 
-**Ingredients:** (makes 1 gallon )
+**Ingredients:** (makes a little under a gallon, depending on desired strength )
 
-* 1 gallon of water (a bit over 3.5
+* ~1 gallon of water (a bit over 3.5
 liters)
 * 2 cups of sugar (a little under
 5 dL)
