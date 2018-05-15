@@ -1,4 +1,4 @@
- # phattea 2.1
+ # PhatTea v2.1
   
   less extreme version of v2.0-beta
 (less "kool-aid" flavor than
