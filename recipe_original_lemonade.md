@@ -1,6 +1,6 @@
 # Original Phat Tea
 
-_ This is the first final blend of Phat Tea we made, and as expected, it's not particularily refined_
+_This is the first final blend of Phat Tea we made, and as expected, it's not particularily refined_
 
  This recipe has non-free components
 
