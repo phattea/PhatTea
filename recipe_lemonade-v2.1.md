@@ -1,13 +1,13 @@
  # PhatTea v2.1
   
-  less extreme version of v2.0-beta
+  Less extreme version of v2.0-beta
 (less "kool-aid" flavor than
 original, while still retaining
 lemonade)
 
- this recipe has non-free components
+ This recipe has non-free components
 
- this recipe includes products which
+ This recipe includes products which
 are property of Kraft Foods Inc, and
 therefore this recipe not intended
 for retail sale.
