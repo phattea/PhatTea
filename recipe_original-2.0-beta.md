@@ -1,6 +1,6 @@
  # Phat Tea v2.0 beta
  
- **crisp, clean flavor!**
+ **Crisp, clean flavor!**
  
  _This version was an experiment in making a blend of Phat Tea that is fully original_
  
