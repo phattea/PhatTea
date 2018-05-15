@@ -6,7 +6,7 @@ _This is the first final blend of Phat Tea we made, and as expected, it's not pa
 
  This recipe includes products which
 are property of Kraft Foods Inc, and 
-therefore this recipe not intended for 
+therefore products made with this recipe not intended for 
 retail sale.
 
 **Ingredients:** (makes one gallon)
