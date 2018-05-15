@@ -5,7 +5,7 @@
  This recipe has non-free components
 
  This recipe includes products which
-are property of Kraft Foods Inc, and
+are property of Kraft Foods Inc;
 therefore products made with this recipe not intended
 for retail sale.
 
