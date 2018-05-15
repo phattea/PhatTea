@@ -2,7 +2,7 @@
  
  **Crisp, clean flavor!**
  
- _This version was an experiment in making a blend of Phat Tea that is fully original_
+ _This version was an experiment in making a blend of Phat Tea that is fully free and original_
  
 
 
