@@ -6,7 +6,7 @@
 
  This recipe includes products which
 are property of Kraft Foods Inc, and
-therefore this recipe not intended
+therefore products made with this recipe not intended
 for retail sale.
 
 **Ingredients:**
