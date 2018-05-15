@@ -11,9 +11,9 @@ liters)
 * 20g black tea (~8 tea bags)
 * 12g citric acid (~2 teaspoons)
 
- food grade citric acid can be
+ _food grade citric acid can be
 purchased for cheap on amazon
-or eBay
+or eBay_
 
 **Directions:**
 
