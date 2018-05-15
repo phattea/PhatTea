@@ -1,6 +1,6 @@
 # Phat Tea raspberry v1.1
 
-Ingredients: (makes 1 gallon )
+**Ingredients: (makes 1 gallon )**
 
 * 1 gallon of water (a bit over 3.5
 liters)
@@ -15,7 +15,7 @@ liters)
 purchased for cheap on amazon
 or eBay
 
-Directions:
+**Directions:**
 
   1. brew the tea in 4 cups of hot
 water for 5-15 minutes, depending
