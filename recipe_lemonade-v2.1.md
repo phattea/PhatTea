@@ -12,17 +12,17 @@ are property of Kraft Foods Inc, and
 therefore this recipe not intended
 for retail sale.
 
-Ingredients: (makes one gallon)
+**Ingredients:** (makes one gallon)
 
->1 gallon of water
->2 cups of sugar
->1 packet of Kool-Aid lemonade (pretty
+* 1 gallon of water
+* 2 cups of sugar
+* 1 packet of Kool-Aid lemonade (pretty
 much any type of lemonade works, with 
 varying results)
->6g citric acid (~1 teaspoon)
->20g black tea (~8 tea bags)
+* 6g citric acid (~1 teaspoon)
+*20g black tea (~8 tea bags)
 
-Directions:
+**Directions:**
 
   1. brew the tea in 4 cups of hot water for 
 5-15 minutes, depending on desired flavor
