@@ -20,7 +20,7 @@ varying results)
 
 **Directions:**
 
-  1. brew the tea in 4 cups of hot water for 
+  1. brew the tea in 4 cups(~1L) of hot water for 
 5-15 minutes, depending on desired flavor
 (you really can't brew it for too long)
   2. while the tea is brewing, add the sugar, 
