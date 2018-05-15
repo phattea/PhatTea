@@ -1,4 +1,6 @@
-**Original recipe for Phat Tea**
+# Original Phat Tea
+
+Original recipe for Phat Tea
 
  This recipe has non-free components
 
@@ -16,7 +18,7 @@ much any type of lemonade works, with
 varying results)
 * 20g black tea (~8 tea bags)
 
-Directions:
+**Directions:**
 
   1. brew the tea in 4 cups of hot water for
 5-15 minutes, depending on desired flavor
