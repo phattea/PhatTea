@@ -12,7 +12,8 @@ are property of Kraft Foods Inc, and
 therefore this recipe not intended
 for retail sale.
 
-**Ingredients:** (makes one gallon)
+**Ingredients:**
+(makes one gallon)
 
 * 1 gallon of water
 * 2 cups of sugar
