@@ -1,5 +1,10 @@
- **fully open, original phat tea**
-**crisp, clean flavor!**
+ # Phat Tea v2.0 beta
+ 
+ **crisp, clean flavor!**
+ 
+ _this version was an experiment in making a blend that is fully original_
+ 
+
 
 Ingredients: (makes one gallon)
 
