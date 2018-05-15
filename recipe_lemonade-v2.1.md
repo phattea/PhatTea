@@ -1,9 +1,6 @@
  # PhatTea v2.1
   
-  Less extreme version of v2.0-beta
-(less "kool-aid" flavor than
-original, while still retaining
-lemonade)
+  Less extreme version of v2.0-beta (less "kool-aid" flavor than original, while still retaining lemonade)
 
  This recipe has non-free components
 
