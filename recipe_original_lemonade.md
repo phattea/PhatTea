@@ -1,20 +1,20 @@
-# Original recipe for Phat Tea
+**Original recipe for Phat Tea**
 
-# this recipe has non-free components
+ This recipe has non-free components
 
-# this recipe includes products which
+ This recipe includes products which
 are property of Kraft Foods Inc, and 
 therefore this recipe not intended for 
 retail sale.
 
-Ingredients: (makes one gallon)
+**Ingredients:** (makes one gallon)
 
->1 gallon of water
->2 cups of sugar
->2 packets of Kool-Aid lemonade (pretty
+* 1 gallon of water
+* 2 cups of sugar
+* 2 packets of Kool-Aid lemonade (pretty
 much any type of lemonade works, with 
 varying results)
->20g black tea (~8 tea bags)
+* 20g black tea (~8 tea bags)
 
 Directions:
 
