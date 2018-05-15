@@ -12,7 +12,7 @@ liters)
 * 12g citric acid (~2 teaspoons)
 
  _food grade citric acid can be
-purchased for cheap on amazon
+purchased for cheap on Amazon
 or eBay_
 
 **Directions:**
