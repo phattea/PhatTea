@@ -1,12 +1,12 @@
-# fully open, original phat tea
-# crisp, clean flavor!
+ **fully open, original phat tea**
+**crisp, clean flavor!**
 
 Ingredients: (makes one gallon)
 
->1 gallon of water
->2 cups of sugar
->12g citric acid (~2 teaspoons)
->20g black tea (~8 tea bags)
+* 1 gallon of water
+* 2 cups of sugar
+* 12g citric acid (~2 teaspoons)
+* 20g black tea (~8 tea bags)
 
 Directions:
 
