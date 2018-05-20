@@ -17,7 +17,7 @@ or eBay_
 
 **Directions:**
 
-  1. brew the tea in 4 cups of hot water for 5-15 minutes, depending on desired flavor. (the longer the better :smiley:)
+  1. brew the tea in 4 cups of hot water for 5-15 minutes, depending on desired flavor. (the longer the better)
   2. while the tea is brewing, add the sugar and citric acid to a gallon pitcher
   3. put the raspberries into a microwave in a bowl, and let it run until the raspberries are hot (but not boiling)
   4. strain the seeds out by pouring the rasperry puree through a strainer into the gallon pitcher
