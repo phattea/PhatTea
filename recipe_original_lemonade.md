@@ -9,10 +9,14 @@ are property of Kraft Foods Inc, and
 therefore products made with this recipe not intended for 
 retail sale.
 
-**Ingredients:** (makes one gallon)
+**Ingredients:** (makes about one gallon, depending on desired strength)
 
 * 1 gallon of water
-* 2 cups of sugar
+* ~1 gallon of water (a bit over 3.5
+liters)
+* 2 cups of sugar (a little under
+5 dL)
+* 12g citric acid (~2 teaspoons)
 * 2 packets of Kool-Aid lemonade (pretty
 much any type of lemonade works, with 
 varying results)
