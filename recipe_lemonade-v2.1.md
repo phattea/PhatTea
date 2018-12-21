@@ -16,7 +16,7 @@ liters)
 much any type of lemonade works, with 
 varying results)
 * 6g citric acid (~1 teaspoon)
-*20g black tea (~8 tea bags)
+* 20g black tea (~8 tea bags)
 
 **Directions:**
 
