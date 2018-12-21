@@ -8,8 +8,8 @@
 
 **Ingredients:** (makes one gallon)
 
-* 1 gallon of water
-* 2 cups of sugar
+* 1 gallon of water (a bit over 3.5 liters)
+* 2 cups of sugar (a little under 5 dL)
 * 12g citric acid (~2 teaspoons)
 * 20g black tea (~8 tea bags)
 
