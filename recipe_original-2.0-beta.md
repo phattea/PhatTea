@@ -6,7 +6,7 @@
  
 
 
-**Ingredients:** (makes one gallon)
+**Ingredients:** (makes about one gallon depending on desired strength)
 
 * 1 gallon of water (a bit over 3.5 liters)
 * 2 cups of sugar (a little under 5 dL)
