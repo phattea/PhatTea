@@ -21,7 +21,7 @@ liters)
   6.  put the strawberries into a blender with water
   7.  blend the strawberries (try not to blend them too vigorously)
   8.  strain the seeds out by pouring the puree through a strainer into the gallon pitcher
-  9.  for maximum flavor extraction, pour water through stuff in the strainer
+  9.  for maximum flavor extraction, pour water through the stuff in the strainer
   10. fill the rest of pitcher with water, or until desired strength
   11. drink the whole gallon (not recommended)
   
