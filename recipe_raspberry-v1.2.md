@@ -2,7 +2,7 @@
 
 **Ingredients:** (makes a little under a gallon, depending on desired strength )
 
-* ~1 gallon of water (a bit over 3.5
+* about 1 gallon of water (a bit over 3.5
 liters)
 * 2 cups of sugar (a little under
 5 dL)
@@ -26,3 +26,6 @@ or eBay_
   7. add ice
   8. fill the pitcher with water, or until desired strength
   9. drink the whole gallon (not recommended)
+  
+_Note: heating up the raspberries does somewhat affect the flavor.
+Whether the flavor is better or worse, though, comes down to personal preference._
